@@ -1,0 +1,170 @@
+.nav-padding {
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+
+.customnav {
+    background-color: #f39d9d;
+}
+.customnav > ul {
+    list-style-type: none;
+    padding-top:5px;
+}
+
+.customnav {
+    font-size: 20px;
+    text-align: center;
+    padding:10px;
+    color: white;
+}
+
+.header-bar {
+    width:425px;
+    height:5px;
+    background-color:#f07878;
+    margin-left:750px;
+}
+.headerbackground {
+    background-image: url("header.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom:0px;
+    text-align: center;
+}
+
+.headerbackground > p {
+    padding-top:20px;
+}
+
+.icon {
+    padding-top:70px;
+    padding-bottom:70px;
+}
+
+.icon > p {
+    padding-top:15px;
+    padding-bottom: 30px;;
+}
+
+.icon-bar {
+    background-color:#f07878;
+    width:90px;
+    height:5px;
+    margin-left:178px;
+}
+
+.headerbackground > img {
+    padding-bottom:90px;
+}
+
+.headerbackground > h1 {
+    padding-top:90px;
+}
+
+.about-background {
+    background-color:#f07878; 
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.details >h3  {
+    color:#333;
+    font-weight:600;
+
+}
+
+.details > h4 {
+    padding-top:10px;
+}
+
+.about-content > p {
+    font-size:20px;
+}
+
+.fa {
+    padding: 20px 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 5px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .contact-head {
+      padding: 20px 0px;
+      text-align:left;
+  }
+  
+  .myform {
+      padding-bottom:100px;
+      padding-top:100px;
+  }
+  
+  .portfolio {
+      text-align:center;
+      padding-top:80px;
+  }
+
+  .portfolio-heading > h1 {
+      font-size:60px;
+      padding-top:50px;
+  }
+
+  .experience {
+    text-align: center;
+  }
+
+  .experience > p {
+      font-size:20px;
+
+  }
+
+  .details > h4 {
+      margin-top:px;
+      
+  }
+
+  .experience >h3  {
+    color:#333;
+    font-weight:600;
+}
+
+.experience > p {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover {
+    text-decoration: none;
+}
