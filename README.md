@@ -1,3 +1,3 @@
 # Welcome to my Portfolio
 
-<p>Thank you for visiting</p>
+<p>Thank you for visiting my portfolio!</p>
